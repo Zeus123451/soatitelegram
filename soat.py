@@ -10,6 +10,7 @@ number = 1
 length = 50
 number = int(number)
 length = int(length)
+password = None
 for n in range(number):
     password =''
     for i in range(length):
